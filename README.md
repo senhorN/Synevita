@@ -3,7 +3,7 @@
 ### jogo em fase de desenvolvimento...
 
 
-` Jogo de suspense investigativo com uma história épica que te faz mergulhar no assasinato ocorrido na gameplay. Se aventure nesses desafios e solucione enigmas e desafios ao longo do jogo para chegar ao uma solução.` 
+` Jogo de suspense investigativo com uma história épica que te faz mergulhar no assasinato ocorrido na gameplay. Se aventure nesses desafios e solucione enigmas e desafios ao longo do jogo para chegar a uma solução.` 
 
 
 * **Desenvolvedores**<br>
